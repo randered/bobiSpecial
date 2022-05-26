@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-core-spring-mvc-spring-mvc-command-object-course-update.iml" filepath="$PROJECT_DIR$/.idea/spring-core-spring-mvc-spring-mvc-command-object-course-update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core-spring-mvc-spring-mvc-command-object-course-update/springmvc.iml" filepath="$PROJECT_DIR$/spring-core-spring-mvc-spring-mvc-command-object-course-update/springmvc.iml" />
+    </modules>
+  </component>
+</project>
